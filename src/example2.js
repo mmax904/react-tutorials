@@ -20,7 +20,7 @@ class Show extends React.Component {
         return <div>
             <Clock/>
             <Cartoon name='Manish' show='TechJack'/>
-            <Cartoon name='Kalpana' show='TechJack'/>
+            <Cartoon name='Mahant' show='TechJack'/>
         </div>
     }
 }
