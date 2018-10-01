@@ -1,3 +1,4 @@
+https://medium.com/front-end-developers/react-redux-tutorial-d1f6c6652759
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
